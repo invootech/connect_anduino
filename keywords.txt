@@ -1,0 +1,87 @@
+#######################################
+
+# Syntax Coloring Map For Connect_Anduino
+
+#######################################
+# Class
+
+#######################################
+
+
+Connect_Anduino_BT	KEYWORD1
+Connect_Anduino_IoT	KEYWORD1
+Joystick	KEYWORD1
+Sensor	KEYWORD1
+GPS	KEYWORD1
+RFID	KEYWORD1
+RGB	KEYWORD1
+
+
+#######################################
+
+# Methods and Functions
+#######################################
+
+
+begin	KEYWORD2
+getGPS	KEYWORD2
+getJoystick	KEYWORD2
+getX_AXIS	KEYWORD2
+getY_AXIS	KEYWORD2
+getAngle	KEYWORD2
+getPower	KEYWORD2
+getSensor	KEYWORD2
+getSensor1	KEYWORD2
+getSensor2	KEYWORD2
+setAccelerometer	KEYWORD2
+setAccelerometer2	KEYWORD2
+setGyroscope	KEYWORD2
+setGyroscope2	KEYWORD2
+setGyroscope3	KEYWORD2
+setGravity	KEYWORD2
+setVector	KEYWORD2
+setScalar	KEYWORD2
+setMagnetic	KEYWORD2
+setOrientation	KEYWORD2
+getX	KEYWORD2
+getY	KEYWORD2
+getZ	KEYWORD2
+getAzimuth	KEYWORD2
+getPitch	KEYWORD2
+getRoll	KEYWORD2
+getcos	KEYWORD2
+getLatitude	KEYWORD2
+getLongitude	KEYWORD2
+getAltitude	KEYWORD2
+getAccuracy	KEYWORD2
+getSpeed	KEYWORD2
+getBearing	KEYWORD2
+getUTC	KEYWORD2
+joystick	KEYWORD2
+sensor	KEYWORD2
+gps	KEYWORD2
+getRed	KEYWORD2
+getGreen	KEYWORD2
+getBlue	KEYWORD2
+getIntensity	KEYWORD2
+getSlider	KEYWORD2
+getRFID	KEYWORD2
+gettech	KEYWORD2
+rfid	KEYWORD2
+rgb	KEYWORD2
+CA_HOST	KEYWORD2
+getJSON	KEYWORD2
+CA_APIROOT	KEYWORD2
+#######################################
+
+# Built in variables
+#######################################
+VAR_S	LITERAL1	RESERVED_WORD_2
+VAR_C	LITERAL1	RESERVED_WORD_2
+VAR_1	LITERAL1	RESERVED_WORD_2
+VAR_2	LITERAL1	RESERVED_WORD_2
+VAR_3	LITERAL1	RESERVED_WORD_2
+VAR_4	LITERAL1	RESERVED_WORD_2
+VAR_5	LITERAL1	RESERVED_WORD_2
+VAR_6	LITERAL1	RESERVED_WORD_2
+VAR_S1	LITERAL1	RESERVED_WORD_2
